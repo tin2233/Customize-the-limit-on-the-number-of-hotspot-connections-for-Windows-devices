@@ -1,7 +1,7 @@
 This program can Customize the limit on the number of hotspot connections for Windows devices(max to 128)
 
-#warning
-This program will change your Registry file
+# Warning
+This program will change your Registry file.
 
 ## Getting Started
 1.open'automatically generated'

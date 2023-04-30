@@ -1,4 +1,4 @@
-This program can customize hotspot restrictions on windows devices
+This program can Customize the limit on the number of hotspot connections for Windows devices
 
 # Getting Started
 1.open'automatically generated'

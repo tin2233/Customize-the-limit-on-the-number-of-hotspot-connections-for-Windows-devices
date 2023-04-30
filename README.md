@@ -1,4 +1,4 @@
-This program can Customize the limit on the number of hotspot connections for Windows devices
+This program can Customize the limit on the number of hotspot connections for Windows devices(max to 128)
 
 # Getting Started
 1.open'automatically generated'
